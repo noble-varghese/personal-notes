@@ -39,7 +39,7 @@ socialImage: profile/IMG_7643.jpg
     <p>My name is Noble Varghese. I'm a backend software engineer with a passion for infrastructure and a knack for turning coffee into code. For the past 5 years, I've been navigating the exciting waters of startup engineering, always eager to dive deep into the backend realm.</p>
   </div>
   <div class="profile-pic">
-    <img src="/assets/profile/IMG_7643.jpg" alt="Noble Varghese" />
+    <img src="static/profile/IMG_7643.jpg" alt="Noble Varghese" />
   </div>
 </div>
 
