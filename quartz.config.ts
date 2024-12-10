@@ -66,9 +66,6 @@ const config: QuartzConfig = {
         },
       },
     },
-    components: {
-      ImageWithCaption,
-    },
   },
   plugins: {
     transformers: [
@@ -78,10 +75,10 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
-          dark: "github-dark",
+          light: "catppuccin-latte",
+          dark: "tokyo-night",
         },
-        keepBackground: false,
+        keepBackground: true,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
