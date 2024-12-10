@@ -2,7 +2,7 @@
 date: 2024-11-11
 title: "Understanding K9s Pod Information"
 tags: [infra, k9s]
-socialImage: /assets/notes/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3868.avif
+socialImage: notes/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3868.avif
 socialDescription: Understanding K9s Pod Information
 ---
 
