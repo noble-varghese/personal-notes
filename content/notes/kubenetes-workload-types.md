@@ -4,7 +4,7 @@ date: 2024-10-17
 tags: kubernetes
 ---
 
-![Kubernetes Workload Types Comparison](/assets/notes/kube-controllers.png)
+![Kubernetes Workload Types Comparison](notes/kube-controllers.png)
 
 ## StatefulSets
 StatefulSets are used for managing stateful applications that require stable network identities and persistent storage. They:

@@ -2,11 +2,12 @@
 date: 2024-11-25
 title: "The Case of the Missing Makefile: A Git Story"
 tags: [git, makefile]
+socialImage: static/notes/it-works-on-my-machine.webp
 ---
 
 Imagine this: your CI/CD pipeline fails with a cryptic error message. Everything works perfectly on your local machine. The Makefile is present, the commands are valid, and there’s no apparent issue. Yet, the deployment fails repeatedly. What’s going on?
 
-![it works on my machine](/assets/notes/it-works-on-my-machine.webp)
+![it works on my machine](static/notes/it-works-on-my-machine.webp)
 
 
 # Context

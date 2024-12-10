@@ -2,7 +2,9 @@
 date: 2024-10-14
 title: How quickwit helped us reduce the cost
 tags: infra, logging
+socialImage: static/quickwit/quickwit-enhancements.png
 ---
+
 As an engineer at a rapidly growing startup, I found myself looking at an expensive logging system. We were heavily relying on [Opensearch](https://aws.amazon.com/opensearch-service/) and Heroku's [Mezmo](https://www.mezmo.com/) (formerly LogDNA) to handle all our logging needs. While these tools served us well, there was one major downside: the cost. At over $450 a month, maintaining such an infrastructure wasn't sustainable for a fast-growing company looking to scale smartly. So, I took it upon myself to find a better, more cost-efficient solution that wouldn't sacrifice performance.
 
 That's when I discovered [Quickwit](https://quickwit.io/), and I knew this was the game-changer we needed.
@@ -24,12 +26,11 @@ The first big win was getting rid of our bloated logging costs. By switching to 
 I had our new logging system up and running, delivering better performance and saving us a ton of money in the process.
 
 <div style={{ textAlign: "center", marginBottom: "1em" }}>
-  <img src="/assets/quickwit/prom-metrics-for-qw.webp" alt="Performance metrics for large-scale ingestion" style={{ maxWidth: "100%" }} />
+  <img src="static/quickwit/prom-metrics-for-qw.webp" alt="Performance metrics for large-scale ingestion" style={{ maxWidth: "100%" }} />
   <p style={{ fontStyle: "italic !important", fontSize: "smaller", color: "#666", marginTop: "0.5em" }}>
     <em><small>Performance metrics for large-scale ingestion using tracegen in Quickwit, as displayed on a Grafana dashboard.</small></em>
   </p>
 </div>
-
 
 ### 2. Feature-Packed and Ready for Action
 
@@ -41,7 +42,7 @@ Once I had Quickwit set up, I was blown away by its versatility. Here are just a
 - **Elasticsearch-Compatible APIs:** Migrating from OpenSearch was smooth, thanks to Quickwit's Elasticsearch compatibility.
 - **Blazing-Fast Searches:** We needed sub-second search performance for our growing datasets, and Quickwit delivered, letting us search logs directly from object storage without any delays.
 
-![](assets/quickwit/quickwit-enhancements.png)
+![](static/quickwit/quickwit-enhancements.png)
 
 ### 3. Flexible Indexing for All Our Data
 
@@ -65,7 +66,7 @@ To make our logging pipeline even more robust, I combined Quickwit with Vector â
 - **Log Transformation:** With Vector Remap Language (VRL), I was able to filter and manipulate logs before they were stored, ensuring we only kept what was necessary and secure.
 - **Resilience:** Vector offered in-memory and on-disk log storage when sinks weren't available, ensuring no logs were ever lost, even in the event of a failure.
 
-![](assets/quickwit/vector-add-ons.webp)
+![](static/quickwit/vector-add-ons.webp)
 
 ## The Final Verdict
 

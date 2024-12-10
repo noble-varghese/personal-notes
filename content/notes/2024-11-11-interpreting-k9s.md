@@ -3,12 +3,12 @@ date: 2024-11-11
 title: "Understanding K9s Pod Information"
 tags: [infra, k9s]
 socialImage: notes/cute-man.avif
-socialDescription: ":>>>Understanding K9s Pod Information"
+socialDescription: Understanding K9s Pod Information
 ---
 
 When using K9s to monitor Kubernetes infrastructure, you'll see several columns of information about your pods. Here's what each column in the display means:
 
-![K9s interface showing pod information](/assets/notes/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3868.avif)
+![K9s interface showing pod information](notes/cute-man.avif)
 
 | Column   | Description                                                                             |
 | -------- | --------------------------------------------------------------------------------------- |

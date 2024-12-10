@@ -1,6 +1,7 @@
 ---
 title: Hello, World!
 date: 2024-09-14
+socialImage: static/profile/IMG_7643.jpg
 ---
 <style>
   .profile-container {
