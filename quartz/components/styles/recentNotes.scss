@@ -1,7 +1,7 @@
 .recent-notes {
   & > h3 {
-    margin: 0.5rem 0 0 0;
-    font-size: 1rem;
+    margin: 0 0 0 0;
+    font-size: 1.5rem;
   }
 
   & > ul.recent-ul {
@@ -13,6 +13,8 @@
       margin: 1rem 0;
       .section > .desc > h3 > a {
         background-color: transparent;
+        font-size: 1rem;
+        color: #5D7DA5;
       }
 
       .section > .meta {
