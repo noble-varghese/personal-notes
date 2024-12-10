@@ -2,7 +2,7 @@
 date: 2024-10-14
 title: How quickwit helped us reduce the cost
 tags: infra, logging
-socialImage: static/quickwit/quickwit-enhancements.png
+socialImage: quickwit/quickwit-enhancements.png
 ---
 
 As an engineer at a rapidly growing startup, I found myself looking at an expensive logging system. We were heavily relying on [Opensearch](https://aws.amazon.com/opensearch-service/) and Heroku's [Mezmo](https://www.mezmo.com/) (formerly LogDNA) to handle all our logging needs. While these tools served us well, there was one major downside: the cost. At over $450 a month, maintaining such an infrastructure wasn't sustainable for a fast-growing company looking to scale smartly. So, I took it upon myself to find a better, more cost-efficient solution that wouldn't sacrifice performance.
