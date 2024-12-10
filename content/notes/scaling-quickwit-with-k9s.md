@@ -6,7 +6,27 @@ socialDescription: "The ultimate k9s cheat sheet"
 socialImage: notes/k9s-logo.jpg
 ---
 
-![k9s](static/notes/k9s-logo.jpg)
+<style>
+  .logo-container {
+    display: flex;
+    justify-content: center;  /* Centers horizontally */
+    align-items: center;      /* Centers vertically */
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+  .logo-pic img {
+    width: 600px;
+    height: 450px; 
+    border-radius: 3%;
+    object-fit: cover;
+  }
+</style>
+<div class="logo-container">
+    <div class="logo-pic">
+        <img src="static/notes/k9s-logo.jpg" alt="k9s-logo" />
+    </div>
+</div>
+
 
 K9s is a terminal based UI to interact with your Kubernetes clusters. K9s continually watches Kubernetes for changes and offers subsequent commands to interact with your observed resources.
 
