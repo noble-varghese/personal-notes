@@ -5,6 +5,7 @@ import ImageWithCaption from "./quartz/components/ImageWithCaption"
 const posthogApiKey = process.env.POSTHOG_API_KEY
 if (!posthogApiKey) {
   console.warn("Warning: POSTHOG_API_KEY environment variable is not set")
+  throw new Error('Validation error/')
 }
 
 /**

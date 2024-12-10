@@ -28,7 +28,7 @@ socialImage: notes/k9s-logo.jpg
 </div>
 
 
-K9s is a terminal based UI to interact with your Kubernetes clusters. K9s continually watches Kubernetes for changes and offers subsequent commands to interact with your observed resources.
+[K9s](https://k9scli.io/) is a terminal based UI to interact with your Kubernetes clusters. K9s continually watches Kubernetes for changes and offers subsequent commands to interact with your observed resources.
 
 ## Installation
 
