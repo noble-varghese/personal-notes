@@ -33,10 +33,10 @@ export default ((userOpts?: Partial<Options>) => {
             <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/posts">Posts</a></h3>
             <i>In-depth explorations and reflections</i>
           </li>
-          {/* <li>
+          <li>
             <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/projects">Projects</a></h3>
             <i>cool things I've made</i>
-          </li> */}
+          </li>
         </ul>
       </div>
     )
