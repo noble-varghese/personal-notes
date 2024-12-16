@@ -156,7 +156,7 @@ export default (() => {
 
     return (
       <head>
-        <title>{title}</title>
+        <title>Noble Varghese</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
