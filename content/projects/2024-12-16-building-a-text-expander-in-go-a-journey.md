@@ -1,6 +1,6 @@
 ---
 date: 2024-12-12
-title: "Builidng a cross platform text-expander"
+title: "Building a Text Expander in Go: A Journey"
 tags: [golang, text-expander]
 socialDescription: ""
 socialImage: ""
