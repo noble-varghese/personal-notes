@@ -2,6 +2,7 @@
 title: Hello, World!
 date: 2024-09-14
 socialImage: profile/profile-pic.jpeg
+description: "Code Well, Rest Easy: A Backend Engineer's Journey"
 ---
 <style>
   .profile-container {
