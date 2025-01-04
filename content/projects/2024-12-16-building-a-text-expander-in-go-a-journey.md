@@ -1,6 +1,6 @@
 ---
 date: 2024-12-12
-title: "Building a Text Expander in Go: A Journey"
+title: "Scribe: fast and flexible text-expander"
 tags: [golang, text-expander]
 socialDescription: ""
 socialImage: ""
@@ -41,6 +41,14 @@ In the upcoming posts, I'll cover:
 - Implemented initial snippet management system
 - Started research on cross-platform keyboard event handling
 - Make it brew installable and add the documentation for the installation details.
+
+**Dec 17th, 2024:**
+- created the brew installable version. You can now install using 
+```bash
+brew tap noble-varghese/scribe
+brew install scribe
+```
+- Note: This is still in developement phase and hence not ready for public use yet. 
 
 ## Technical Challenges & Solutions
 This section will be updated as challenges are encountered and solved

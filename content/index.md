@@ -1,7 +1,7 @@
 ---
 title: Hello, World!
 date: 2024-09-14
-socialImage: profile/IMG_7643.jpg
+socialImage: profile/2743341.jpg
 ---
 <style>
   .profile-container {
@@ -39,7 +39,7 @@ socialImage: profile/IMG_7643.jpg
     <p>My name is Noble Varghese. I'm a backend software engineer with a passion for infrastructure and a knack for turning coffee into code. For the past 5 years, I've been navigating the exciting waters of startup engineering, always eager to dive deep into the backend realm.</p>
   </div>
   <div class="profile-pic">
-    <img src="static/profile/IMG_7643.jpg" alt="Noble Varghese" />
+    <img src="static/profile/2743341.jpg" alt="Noble Varghese" />
   </div>
 </div>
 
