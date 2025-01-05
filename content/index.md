@@ -84,8 +84,10 @@ I'm always excited to connect with fellow tech enthusiasts, potential collaborat
 
 Feel free to reach out—whether it's about a project, a tech discussion, or just to say hi!
 
----
+<!-- ---
 
 <div class="footer">
 <p><em>This site is a constant work in progress, much like software itself.</em></p>
 </div>
+
+--- -->
