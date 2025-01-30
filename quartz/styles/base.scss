@@ -90,6 +90,7 @@ a {
       padding: 0;
     }
     &.tag-link {
+      font-size: small;
       &::before {
         content: "#";
       }
