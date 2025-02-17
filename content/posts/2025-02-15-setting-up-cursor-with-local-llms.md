@@ -1,14 +1,14 @@
 ---
 date: 2025-02-15
-title: "Setting up Cursor with local LLMs"
+title: "Cursor + Ollama: Your guide to local LLM integration"
 tags: [cursor, llm]
-socialDescription: "Setting up Cursor with local LLMs: A step-by-step guide"
+socialDescription: "Cursor + Ollama: Your guide to local LLM integration"
 socialImage: notes/cursor-local-model.jpg
 ---
 
 ![Cursor+local-llm](static/notes/cursor-local-model.jpg)
 
-If you're looking to integrate local LLMs(say deepseek-r1) with Cursor, you've come to the right place! This guide will walk you through the process of setting up Ollama alongside Cursor for seamless local model usage - a solution that's both powerful and privacy-focused.
+If you're looking to integrate local LLM like deepseek-r1 with Cursor, you've come to the right place! In this guide, you'll learn how to leverage Ollama for a setup that's not just powerful and private, but also easy on your wallet. No more usage limits or unexpected bills - just pure, local AI assistance at your fingertips.
 
 ## Prerequisites
 
