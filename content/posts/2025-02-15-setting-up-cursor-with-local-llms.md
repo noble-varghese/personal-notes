@@ -39,7 +39,7 @@ OLLAMA_ORIGINS=* ollama serve > /dev/null 2>&1 &
 Now for the interesting part - we'll use Ngrok to create a secure tunnel to your local Ollama server:
 
 ```bash
-ngrok http 11434 --domain=ollama.ngrok.app
+ngrok http 11434 --host-header="localhost:11434"
 ```
 
 **Security Note**: Keep your Ngrok URL private! If it ever gets compromised, simply restart the Ngrok server to generate a new URL.
