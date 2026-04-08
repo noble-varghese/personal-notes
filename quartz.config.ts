@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       host: "https://us.i.posthog.com",
     },
     locale: "en-US",
-    baseUrl: "noblevarghese.com",
+    baseUrl: "noble-varghese.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: {
